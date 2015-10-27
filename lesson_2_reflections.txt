@@ -1,4 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 When you initialize a repository you start a version repository using git. You need to do this to start the repository so git knows where to go.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-I think the staging area offers another version of control. 
+I think the staging area offers another version of control.
+How do the diagrams help you visualize the branch structure?
+They help you visualize the latest commits and the timeline that the master and branches follow.
